@@ -4,7 +4,7 @@ import tiktoken
 import numpy as np
 
 # download the tiny shakespeare dataset
-input_file_path = os.path.join(os.path.dirname(__file__), 'input.txt')
+input_file_path = os.path.join(os.path.dirname(__file__), 'promptA1.txt')
 if not os.path.exists(input_file_path):
     data_url = 'https://raw.githubusercontent.com/dunjadakovic/nanoGPT/master/data/prompts_replies_jufo.txt'
     with open(input_file_path, 'w') as f:
