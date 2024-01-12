@@ -1,0 +1,250 @@
+{"prompt":"Write a sentence for A1-level English.","completion":"My bedroom is my peaceful retreat."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bee is collecting nectar."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I added a new book to my shelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I assembled the bookcase myself."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I slipped on my hiking boots."}
+{"prompt":"Write a sentence for A1-level English.","completion":"She's taking a fitness class."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'll take a bath and unwind."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom is always tidy."}
+{"prompt":"Write a sentence for A1-level English.","completion":"We'll have a picnic on the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I found a rare seashell."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm cooking a pot of gumbo."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bear is a symbol of strength."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I love the view from my apartment."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to bed early tonight."}
+{"prompt":"Write a sentence for A1-level English.","completion":"My bedroom is filled with books."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bee is busy with the flowers."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm adding a new book to my shelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I have a new book on my bookshelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I purchased a bookcase for my room."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I put on my running shoes."}
+{"prompt":"Write a sentence for A1-level English.","completion":"She's taking a running class."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to take a bath."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom is sparkling clean."}
+{"prompt":"Write a sentence for A1-level English.","completion":"We'll have a picnic at the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I found a seashell collection."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm preparing a pot of stew."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bear is a symbol of courage."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I love the view from my apartment."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to bed early tonight."}
+{"prompt":"Write a sentence for A1-level English.","completion":"My bedroom is my happy place."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bee is attracted to the flowers."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I need a new book for my bookshelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I bought a bookcase for my room."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I put on my hiking boots."}
+{"prompt":"Write a sentence for A1-level English.","completion":"She's taking a hiking class."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to take a bath."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom is always clean."}
+{"prompt":"Write a sentence for A1-level English.","completion":"We'll have a picnic on the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I found a unique seashell."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm cooking a pot of curry."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bear is a magnificent creature."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The apartment offers a great view."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to bed early tonight."}
+{"prompt":"Write a sentence for A1-level English.","completion":"My bedroom is my sanctuary."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bee is buzzing near the flowers."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I have a new book on my bookshelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I installed a bookcase in my room."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I put on my dancing shoes."}
+{"prompt":"Write a sentence for A1-level English.","completion":"She's taking a dance class."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'll take a bath and unwind."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The ball bounced high in the air."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The boy is playing with a red balloon."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I love eating bananas for breakfast."}
+{"prompt":"Write a sentence for A1-level English.","completion":"Can you pass me the baseball?"}
+{"prompt":"Write a sentence for A1-level English.","completion":"I wear a baseball cap when I go to games."}
+{"prompt":"Write a sentence for A1-level English.","completion":"Let's play basketball at the park."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I found my baseball bat in the garage."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I need to take a bath after a long day."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom is clean and tidy."}
+{"prompt":"Write a sentence for A1-level English.","completion":"Let's have a barbecue on the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I found a tiny seashell on the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"Can you pass the beans, please?"}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bear is sleeping in its den."}
+{"prompt":"Write a sentence for A1-level English.","completion":"This apartment has a beautiful view of the city."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to bed early tonight."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I have a cozy bedroom with a big window."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I heard a buzzing bee in the garden."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The book is on the shelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I got a new bookcase for my room."}
+{"prompt":"Write a sentence for A1-level English.","completion":"She left her boots by the door."}
+{"prompt":"Write a sentence for A1-level English.","completion":"Can I borrow your boxing gloves?"}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to take a bath."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom is right across the hall."}
+{"prompt":"Write a sentence for A1-level English.","completion":"My sister has a beautiful garden."}
+{"prompt":"Write a sentence for A1-level English.","completion":"We found a big bear in the forest."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to bake cookies this afternoon."}
+{"prompt":"Write a sentence for A1-level English.","completion":"There's a basketball court at the park."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I need a baseball for the game."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I wear a baseball cap to protect myself from the sun."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'll take a bath and get ready."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom has a lovely shower."}
+{"prompt":"Write a sentence for A1-level English.","completion":"We'll have a picnic on the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I picked up a seashell as a souvenir."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm making a pot of beans for dinner."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bear lives in a cave."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I love the view from this apartment."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm going to bed early tonight."}
+{"prompt":"Write a sentence for A1-level English.","completion":"My bedroom is cozy and warm."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bee is collecting nectar from the flowers."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The book is on the shelf."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I got a bookcase for my room."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I put on my boots to go outside."}
+{"prompt":"Write a sentence for A1-level English.","completion":"She's taking a boxing class."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'll take a bath and relax."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bathroom is clean and neat."}
+{"prompt":"Write a sentence for A1-level English.","completion":"We'll have a barbecue on the beach."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I found a seashell in the sand."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I'm cooking a pot of chili."}
+{"prompt":"Write a sentence for A1-level English.","completion":"The bear hibernates in the winter."}
+{"prompt":"Write a sentence for A1-level English.","completion":"I enjoy the view from my apartment."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I invited a few of my friends."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I’ll be ready in a few minutes."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I am able to swim."}
+{"prompt":"Write a sentence for A2-level English.","completion":"What about a cold drink?"}
+{"prompt":"Write a sentence for A2-level English.","completion":"I have about £3."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I'm reading a book about animals."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The book is on the shelf above."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The accident happened on the highway."}
+{"prompt":"Write a sentence for A2-level English.","completion":"He walked across the bridge."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Please act quickly."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Taking action is important."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The activity was fun."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The actor delivered an amazing performance."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Actually, I have a better idea."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I saw an ad on TV."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Add some sugar to the tea."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Please provide your address."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Are you an adult now?"}
+{"prompt":"Write a sentence for A2-level English.","completion":"The movie was very advanced."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The adventure was thrilling."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I saw an advert in the newspaper."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Do you need some advice?"}
+{"prompt":"Write a sentence for A2-level English.","completion":"The aeroplane landed safely."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I'm not afraid of the dark."}
+{"prompt":"Write a sentence for A2-level English.","completion":"We'll meet after lunch."}
+{"prompt":"Write a sentence for A2-level English.","completion":"He came over in the afternoon."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Let's meet again tomorrow."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Don't lean against the wall."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I don't know her age."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The aged man is wise."}
+{"prompt":"Write a sentence for A2-level English.","completion":"We met a long time ago."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Do you agree with this decision?"}
+{"prompt":"Write a sentence for A2-level English.","completion":"I agree with your choice."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The air is fresh."}
+{"prompt":"Write a sentence for A2-level English.","completion":"We're going to the airport."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Set the alarm clock for 7 a.m."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I love listening to this album."}
+{"prompt":"Write a sentence for A2-level English.","completion":"All my friends are coming."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I can allow you to enter."}
+{"prompt":"Write a sentence for A2-level English.","completion":"It's all right, don't worry."}
+{"prompt":"Write a sentence for A2-level English.","completion":"There are all sorts of animals."}
+{"prompt":"Write a sentence for A2-level English.","completion":"He's always on time."}
+{"prompt":"Write a sentence for A2-level English.","completion":"My appointment is at 2 p.m."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The area is beautiful."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The cat climbed the tree."}
+{"prompt":"Write a sentence for A2-level English.","completion":"The dog ran across the field."}
+{"prompt":"Write a sentence for A2-level English.","completion":"They performed an action movie."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Let's plan our activity."}
+{"prompt":"Write a sentence for A2-level English.","completion":"I saw an interesting advertisement."}
+{"prompt":"Write a sentence for A2-level English.","completion":"Can you give me some advice?"}
+{"prompt":"Write a sentence for B1-level English.","completion":"They shared a passionate kiss under the moonlight."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She played a beautiful melody on the piano."}
+{"prompt":"Write a sentence for B1-level English.","completion":"There's enough food for everyone at the party."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The digital revolution has transformed our lives."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The engineer designed a groundbreaking invention."}
+{"prompt":"Write a sentence for B1-level English.","completion":"We need to increase our efforts to reach our goals."}
+{"prompt":"Write a sentence for B1-level English.","completion":"He drove the car really fast on the highway."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She felt lonely in the empty house."}
+{"prompt":"Write a sentence for B1-level English.","completion":"A funny thing happened on the way to the store."}
+{"prompt":"Write a sentence for B1-level English.","completion":"I turned to the next page of the book."}
+{"prompt":"Write a sentence for B1-level English.","completion":"I need to find my own pen."}
+{"prompt":"Write a sentence for B1-level English.","completion":"That movie was so bad; I couldn't finish watching it."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Dear Sir, I am writing to express my concerns."}
+{"prompt":"Write a sentence for B1-level English.","completion":"I can't believe I forgot my girlfriend's birthday."}
+{"prompt":"Write a sentence for B1-level English.","completion":"They decided to order a meal from the restaurant."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Please leave a comment on the website."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She wore a beautiful pink dress to the party."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Earth is the third planet from the sun."}
+{"prompt":"Write a sentence for B1-level English.","completion":"He opened the drawer and found the missing keys."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The forest was dense and full of wildlife."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She added some olive oil to the salad."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Do you fancy going out tonight for a movie?"}
+{"prompt":"Write a sentence for B1-level English.","completion":"Knowledge is the key to success."}
+{"prompt":"Write a sentence for B1-level English.","completion":"I received a gift from my friend from across the ocean."}
+{"prompt":"Write a sentence for B1-level English.","completion":"May I borrow your purple pen for a moment?"}
+{"prompt":"Write a sentence for B1-level English.","completion":"The students will enter the classroom in a moment."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Despite the ordinary appearance, the cake tasted amazing."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Please hold the door for me; my hands are full."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Let's go to the cinema to watch the latest movie."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The bridge was made of metal and seemed very sturdy."}
+{"prompt":"Write a sentence for B1-level English.","completion":"He played a beautiful melody on the piano."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The boss was impressed with her performance."}
+{"prompt":"Write a sentence for B1-level English.","completion":"They set a date for their wedding next year."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She wore her favorite pair of boots."}
+{"prompt":"Write a sentence for B1-level English.","completion":"They woke up early to catch the sunrise."}
+{"prompt":"Write a sentence for B1-level English.","completion":"We are at present working on the new project."}
+{"prompt":"Write a sentence for B1-level English.","completion":"His approach to problem-solving is unique."}
+{"prompt":"Write a sentence for B1-level English.","completion":"All the students in the class passed the exam."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The exchange rate between the two currencies is favorable."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Please lay the table for dinner."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Be careful; you might burn your hand on the stove."}
+{"prompt":"Write a sentence for B1-level English.","completion":"He carried his laptop in a sleek black case."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The ice cream stand was crowded on a hot summer day."}
+{"prompt":"Write a sentence for B1-level English.","completion":"They enjoyed their meal at the Italian restaurant."}
+{"prompt":"Write a sentence for B1-level English.","completion":"The museum displayed various forms of art."}
+{"prompt":"Write a sentence for B1-level English.","completion":"A large crowd gathered to watch the parade."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She used to be a famous singer in her former life."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Don't forget to add sugar to your coffee."}
+{"prompt":"Write a sentence for B1-level English.","completion":"Let's get on the bus and head downtown."}
+{"prompt":"Write a sentence for B1-level English.","completion":"She spent the morning doing housework."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The novel explored the complexities of human relationships."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The politician's articulate response resonated with the audience."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The economic report offered a comprehensive overview of market trends."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The film director's masterful storytelling captivated audiences worldwide."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The scientist's groundbreaking research revolutionized the field of genetics."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The journalist's investigative report shed light on a hidden scandal."}
+{"prompt":"Write a sentence for B2-level English.","completion":"Her ability to convey emotions through her artwork was remarkable."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The musician's virtuoso performance received a standing ovation."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The lawyer's persuasive argument swayed the jury in his favor."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The CEO's strategic vision propelled the company to new heights."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The philosopher's profound insights challenged conventional wisdom."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The historian's meticulous research uncovered hidden truths."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The architect's innovative design won international acclaim."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The doctor's diagnostic skills were unparalleled in the medical community."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The poet's evocative verses stirred deep emotions in readers."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The mathematician's elegant proof solved a long-standing theorem."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The chef's culinary creations delighted even the most discerning diners."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The engineer's innovative solution revolutionized the industry."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The psychologist's research shed light on the complexities of human behavior."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The author's use of symbolism added depth to the novel."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The artist's avant-garde work challenged artistic conventions."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The musician's virtuosity on the piano was awe-inspiring."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The physicist's groundbreaking discovery reshaped the field of science."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The lawyer's cross-examination was both incisive and persuasive."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The journalist's investigative piece exposed corporate corruption."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The CEO's leadership style fostered a culture of innovation."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The philosopher's existential questions provoked deep contemplation."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The historian's meticulous documentation preserved historical accuracy."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The architect's innovative design transformed urban landscapes."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The doctor's diagnostic accuracy saved many lives."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The poet's use of imagery painted vivid pictures in readers' minds."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The mathematician's elegant proof resolved a complex problem."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The chef's culinary skills earned the restaurant a Michelin star."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The engineer's ingenuity led to groundbreaking inventions."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The psychologist's research on human behavior yielded valuable insights."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The author's use of allegory added layers of meaning to the story."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The artist's abstract sculptures challenged conventional art forms."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The musician's virtuosity on the saxophone was unparalleled."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The physicist's theoretical work advanced our understanding of the universe."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The lawyer's persuasive closing argument swayed the jury."}
+{"prompt":"Write a sentence for B2-level English.","completion":"His extensive vocabulary and eloquent speech demonstrated his advanced language skills."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The debate revolved around a myriad of complex issues."}
+{"prompt":"Write a sentence for B2-level English.","completion":"She effortlessly switched between languages during the international conference."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The novel's intricate plot captivated readers from start to finish."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The scientific research paper delved deep into the topic of quantum physics."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The diplomat's nuanced approach to negotiations led to a successful resolution."}
+{"prompt":"Write a sentence for B2-level English.","completion":"Her impeccable grammar and syntax set her apart as a skilled writer."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The professor's lectures were intellectually stimulating and thought-provoking."}
+{"prompt":"Write a sentence for B2-level English.","completion":"The documentary provided an in-depth analysis of climate change."}
+{"prompt":"Write a sentence for B2-level English.","completion":"His eloquent speech at the conference left a lasting impression."}
